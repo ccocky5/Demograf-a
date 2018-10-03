@@ -49,9 +49,7 @@ y ver la asociaciòn del nivel socioeconòmico frente al estado mental
 > assoc(Mental,color=TRUE,shade=T,main="mosaico")
 > chisq.test(Mental)
         
-
         
-
 
 #FUENTE:  http://halweb.uc3m.es/esp/Personal/personas/jmmarin/esp/Bayes/practica%205.pdf 
 
